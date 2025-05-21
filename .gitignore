@@ -1,0 +1,28 @@
+# .NET build artifacts
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Rider / VS Code / Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+
+# Build output
+*.dll
+*.exe
+*.pdb
+
+# Debug / Release folders
+**/Debug/
+**/Release/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# User secrets
+secrets.json
+*.userprefs

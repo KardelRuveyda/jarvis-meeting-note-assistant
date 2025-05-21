@@ -1,0 +1,38 @@
+[09:00] Ahmet: Günaydýn herkese. Bugün oldukça yoðun bir ajandamýz var. Þikayet yönetimiyle baþlayýp, destek süreçleri, teknik konular, ardýndan ÝK ve partnerlik güncellemelerini ele alacaðýz.
+[09:01] Elif: Müþteri memnuniyet puanlarýmýz son 2 ayda %6 düþtü. En çok gecikmeli teslimat ve ürün deðiþimi talepleri öne çýkýyor.
+[09:03] Barýþ: Özellikle Ýstanbul içi kargolarýn gecikmesinde ciddi artýþ var. Partner firmamýz SLA’yi %81’e düþürmüþ.
+[09:05] Ayþe: Mobil uygulamadan yapýlan sipariþlerin %24'ü “teslim edilmedi” þikayetiyle geri geliyor.
+[09:07] Ahmet: Kargo firmasýna resmi uyarý yapýlacak. Ayrýca, canlý konum takibi özelliðinin MVP’si tamamlandý mý?
+[09:08] Elif: Evet. UX testleri bu hafta yapýlýyor. 3 pilot þehirde yayýna alýnabilir.
+[09:10] Ahmet: Harika. Elif bu yayýný 20’sinde planlayalým. Þimdi destek tarafýna geçelim.
+
+[09:12] Ayþe: Destek ekibine geçen ay 2.140 talep geldi. Ortalama cevap süremiz 11 saate kadar yükseldi.
+[09:14] Barýþ: Kategorilere göre sýnýflandýrma yapabilir miyiz? Teknik, ödeme, kargo vb.
+[09:15] Ayþe: Yaptým. %37’si kargo, %22’si ürün iadesi, %18’i ödeme. Geri kalaný diðerleri.
+[09:17] Ahmet: Self-servis çözüm akýþý hazýrlayalým. GPT destekli öneri sistemi fikri ne oldu?
+[09:18] Elif: Denemeye hazýrýz. Elimizde 1000’den fazla örnek çaðrý çözüm senaryosu var.
+[09:20] Ahmet: Süper. Önce iade ve kargo kategorileriyle baþlayýn.
+
+[09:23] Barýþ: Teknik olarak monitoring tarafýnda bazý servislerimiz düþük tepki veriyor.
+[09:24] Ayþe: Özellikle 'order-confirmation' servisi gecikmeli cevap veriyor. Ortalama 1.8 saniye.
+[09:26] Ahmet: Kritik eþiðin 1.2 olduðunu biliyoruz. Bu servis üzerinde load test yapýldý mý?
+[09:27] Ayþe: Evet. Kullanýcý artýþýna baðlý olarak scale-out yapýlmasý gerekiyor.
+[09:28] Ahmet: Bu hafta içinde uygulanacak. Gecikme toleransýmýz yok.
+[09:30] Elif: App Store yorumlarýna bakarsanýz 2 haftadýr ayný þikayet: sipariþ verilemiyor.
+[09:31] Barýþ: Altyapýyý Azure’a migrate ettiðimizde bu sorun çözülecek ama test ortamý yavaþ kaldý.
+[09:33] Ahmet: Test için daha büyük bir staging ortamý ayýralým. IT ekibiyle konuþacaðým.
+
+[09:36] Elif: ÝK tarafýnda kýsa bir duyurum var. Eðitim bütçemiz %20 artýrýldý.
+[09:37] Ayþe: Süper haber. Yeni baþlayan destek uzmanlarý için onboarding sürecini dijitalleþtirmek istiyoruz.
+[09:39] Ahmet: Bir LMS (Learning Management System) demosu alalým. Barýþ, ilgilenir misin?
+[09:40] Barýþ: Memnuniyetle. Skillsoft ve Udemy Business arasýnda karþýlaþtýrma yaparým.
+[09:41] Elif: Çalýþan deneyimi anketimiz de 15’inde kapanýyor. Katýlým %76, hedefimiz %90’dý.
+
+[09:43] Ahmet: Þimdi partner yönetimi konusuna geçelim.
+[09:44] Ayþe: Geçen hafta Trendyol ile yürüttüðümüz kampanya 23.000 gösterim aldý ama dönüþüm oraný düþüktü.
+[09:46] Barýþ: Ürün açýklamalarý yetersizdi. A/B testi yapýlmalýydý, kaçýrdýk.
+[09:48] Ahmet: Öðrenilenleri diðer kampanyalara uygulayalým. N11 ve Hepsiburada sýrada.
+[09:50] Elif: Partner iletiþimini tek merkezde toplayan bir dashboard yapalým.
+[09:51] Ahmet: Güzel fikir. Ön analiz dosyasýný haftaya görelim.
+
+[09:54] Barýþ: KPI dashboard’unun son hali hazýr. Ger
