@@ -1,6 +1,9 @@
-﻿# MeetingSummaryApp.Console
+﻿# Jarvis Meeting Note Assistant
 
-MeetingSummaryApp.Console is a .NET 9 and C# 13.0-based console application integrated with the OpenAI API. It takes user questions in natural language and responds with intelligent, context-aware, and user-friendly answers based on meeting transcripts. The app is ideal for meeting summarization, decision tracking, and contextual Q&A tasks.
+
+
+
+Jarvis is a .NET 9 and C# 13.0-based console application integrated with the OpenAI API. It takes user questions in natural language and responds with intelligent, context-aware, and user-friendly answers based on meeting transcripts. The app is ideal for meeting summarization, decision tracking, and contextual Q&A tasks.
 
 ---
 
