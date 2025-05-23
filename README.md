@@ -1,6 +1,7 @@
 ﻿# Jarvis Meeting Note Assistant
 
 
+![image](https://github.com/user-attachments/assets/88eba3c7-38b4-4e16-ade7-81efafe2f979)
 
 
 Jarvis is a .NET 9 and C# 13.0-based console application integrated with the OpenAI API. It takes user questions in natural language and responds with intelligent, context-aware, and user-friendly answers based on meeting transcripts. The app is ideal for meeting summarization, decision tracking, and contextual Q&A tasks.
